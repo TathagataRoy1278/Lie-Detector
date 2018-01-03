@@ -13,7 +13,9 @@ I wrote the code in python and I have implemented a lot of it from Toby Segarans
 The code is all finished, all that is left is to train the net. I trained it to some extent, but being a high school student its hard to spend a lot of time on extra-curricular projects.
 
 I hope there are some people out there wiiling to help me train it properly. Any help is appreciated may it be improving the code or training it.And please bear with me if i made any mistakes because im new to both ML and github.
-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 This code accepts a sentence and splits it into words using the split function in the searchnet class in module nn.py. It then stores it in a database ids.db. Them the actual working takes place in Truth.db.
 
 To train the net use the function - train(self,word,ans) where word is the sentence(or the text) and the ans is if it is a true or false statement(0 means false and 1 means true).
