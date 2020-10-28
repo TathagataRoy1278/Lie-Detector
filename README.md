@@ -1,7 +1,7 @@
 # Lie-Detector
 This is a very simple one layer neural network to analyze lies through text messages.
 
-Hey guys i am a just a teen who freshly started out with neural networks.Recently i read this research about human psychology where it said about the different techniques of catching lies through text messages.
+Recently i read this research about human psychology where it said about the different techniques of catching lies through text messages.
 The links to that are as follows:
   1>https://www.enkirelations.com/how-to-tell-if-someone-is-lying-over-text.html
   2>http://www.dailymail.co.uk/sciencetech/article-2821767/The-language-LYING-Expert-reveals-tiny-clues-way-people-talk-reveal-withholding-truth.html
