@@ -7,9 +7,7 @@ The links to that are as follows:
   2>http://www.dailymail.co.uk/sciencetech/article-2821767/The-language-LYING-Expert-reveals-tiny-clues-way-people-talk-reveal-withholding-truth.html
   
 I think there are some ted talks on it too.
- 
-I wrote the code in python and I have implemented a lot of it from Toby Segarans's "Programming Collective Intelligence"
-  
+
 The code is all finished, all that is left is to train the net. I trained it to some extent, but being a high school student its hard to spend a lot of time on extra-curricular projects.
 
 I hope there are some people out there wiiling to help me train it properly. Any help is appreciated may it be improving the code or training it.And please bear with me if i made any mistakes because im new to both ML and github.
