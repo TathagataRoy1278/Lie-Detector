@@ -12,6 +12,7 @@ The code is all finished, all that is left is to train the net. I trained it to 
 
 I hope there are some people out there wiiling to help me train it properly. Any help is appreciated may it be improving the code or training it.And please bear with me if i made any mistakes because im new to both ML and github.
 
+I wrote the code in python and I have implemented a lot of it from Toby Segarans's "Programming Collective Intelligence"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 This code accepts a sentence and splits it into words using the split function in the searchnet class in module nn.py. It then stores it in a database ids.db. Them the actual working takes place in Truth.db.
